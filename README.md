@@ -28,13 +28,13 @@ Once you've finished the installation, make sure you have a virtual device as se
 
 Follow Both Android and IOS setup.
 
-#Android:
+##Android:
 
 Follow the guide [here](https://reactnative.dev/docs/environment-setup?guide=native) for installing Android Studio.
 
 Once you've finished the installation, make sure you have a virtual device as seen [here](https://docs.expo.dev/workflow/android-studio-emulator/#set-up-a-virtual-device)
 
-#IOS:
+##IOS:
 
 Install Xcode from Mac App Store. 
 
