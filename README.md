@@ -62,10 +62,10 @@ Solution:
 
 ```
 >>> gradle init
->>> 2: application
->>> 4: Kotlin
->>> Generate multiple subprojects for application? No
->>> Kotlin
+› 2: application
+› 4: Kotlin
+› Generate multiple subprojects for application? No
+› Kotlin
 >>> npx expo start --dev-client
 ```
 ```
