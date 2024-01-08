@@ -31,14 +31,14 @@ Follow Both Android and IOS setup.
 Android:
 
 Follow the guide [here](https://reactnative.dev/docs/environment-setup?guide=native) for installing Android Studio.
-Once you've finished the installation, make sure you have a virtual device as seen [here](https://docs.expo.dev/workflow/android-studio-emulator/#set-up-a-virtual-device)
+Once you've finished the installation, make sure you have a virtual device as seen [here](https://docs.expo.dev/workflow/android-studio-emulator/#set-up-a-virtual-device).
 
 IOS:
 
 Install Xcode from Mac App Store. 
 Launch Xcode, a dialog will be presented that indicates which Simulator runtimes are built-in, and which Simulator runtimes you may download. For now, choose Continue to finish setting up Xcode.
 
-Once you've finished setting up, install IOS Simulators using this guide [here](https://developer.apple.com/documentation/safari-developer-tools/installing-xcode-and-simulators).
+Once you've finished setting up, install IOS Simulators using this guide [here](https://developer.apple.com/documentation/safari-developer-tools/adding-additional-simulators).
 
 This step helps to set up an IOS Simulator on your MacOS, allowing you to initiate any emulators from other code editors, E.g. VSCode, Android Studios, or Terminal.
 
