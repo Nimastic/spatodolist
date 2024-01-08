@@ -1,62 +1,3 @@
-Last login: Mon Jan  8 17:03:24 on ttys000
-/Users/jerielchan/.virtualenvs/ocv4/bin/python3: Error while finding module specification for 'virtualenvwrapper.hook_loader' (ModuleNotFoundError: No module named 'virtualenvwrapper')
-virtualenvwrapper.sh: There was a problem running the initialization hooks.
-
-If Python could not import the module virtualenvwrapper.hook_loader,
-check that virtualenvwrapper has been installed for
-VIRTUALENVWRAPPER_PYTHON=/Users/jerielchan/.virtualenvs/ocv4/bin/python3 and that PATH is
-set properly.
-(base) jerielchan@r-92-112-25-172 ~ % ls                         
-*.js				Documents			Orbital				WebForum			flutterdev			sheares-app-frontend
-A.class				Downloads			Picture 1.jpg			allen				forum-system			src
-Applications			HelloWorld.java			Pictures			anaconda3			gymnext				todolist
-AwesomeProject			IdeaProjects			Postman				app.py				index.html			todolistorbital
-B.class				Library				Projects			codenext			lab8.circ			zshrc
-CS2030S				Main.java			Public				crypto_wallet			my_virtual_envs
-CVWO				Movies				StudioProjects			cv.py				myenv
-CalendarApp			Music				Taxi.java			cv2.so				package-lock.json
-Chicken Toy Web			MutataApp			TaxiManager.java		edb_pgjdbc.app.zip		pg_hba.conf
-Desktop				MutataShowcase-Android		Test.java			edb_postgis_3_1_pg14.app.zip	sample-react-app
-(base) jerielchan@r-92-112-25-172 ~ % cd sheares-app-frontend 
-(base) jerielchan@r-92-112-25-172 sheares-app-frontend % vim -p README.md 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -114,13 +55,15 @@ Take note of "." infront of env when downloading on MacOS.
 ```
 
 Possible Issues for MacOS:
-1.
+1. ⚠️  Something went wrong running `pod install` in the `ios` directory. 
 
 Solution:
 
+```
 >>> gradle init
 >>> npx expo start --dev-client
+```
 
-~                                                                                                                                                                                                           
-~                                                                                                                                                                                                           
--- INSERT --
+› Press a │ open Android
+› Press i │ open iOS simulator
+
