@@ -40,6 +40,7 @@ Launch Xcode, a dialog will be presented that indicates which Simulator runtimes
 
 Once you've finished setting up, install IOS Simulators using this guide [here](https://developer.apple.com/documentation/safari-developer-tools/installing-xcode-and-simulators).
 
+This step helps to set up an IOS Simulator on your MacOS, allowing you to initiate any emulators from other code editors, E.g. VSCode, Android Studios or Terminal
 
 
 ### 4. Add the ```.env``` file
