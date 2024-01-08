@@ -63,7 +63,7 @@ Solution:
 >>> gradle init
 >>> npx expo start --dev-client
 ```
-
+```
 › Press a │ open Android
 › Press i │ open iOS simulator
-
+```
