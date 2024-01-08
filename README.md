@@ -46,7 +46,7 @@ This step helps to set up an IOS Simulator on your MacOS, allowing you to initia
 ### 4. Add the ```.env``` file
 
 Add to the base directory. If you don't have it ask someone for it.
-Take note of "." infront of env when downloading on MacOS.
+Take note of the "." infront of env when downloading on MacOS.
 
 
 ### 5. Run
@@ -62,6 +62,10 @@ Solution:
 
 ```
 >>> gradle init
+>>> 2: application
+>>> 4: Kotlin
+>>> Generate multiple subprojects for application? No
+>>> Kotlin
 >>> npx expo start --dev-client
 ```
 ```
