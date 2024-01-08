@@ -55,6 +55,7 @@ Take note of the "." infront of env when downloading on MacOS.
 >>> npm run ios
 ```
 
+### 6. Fixes
 Possible Issues for MacOS:
 1. ⚠️  Something went wrong running `pod install` in the `ios` directory. 
 
